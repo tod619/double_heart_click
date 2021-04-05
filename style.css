@@ -25,3 +25,18 @@ small {
   text-align: center;
 }
 /* End: Global Styles */
+.fa-heart {
+  color: red;
+}
+
+.love-me {
+  height: 440px;
+  width: 300px;
+  background: url("img-4.jpg") no-repeat center left;
+  background-size: cover;
+  margin: auto;
+  cursor: pointer;
+  max-width: 100%;
+  position: relative;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
